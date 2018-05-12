@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/675
     wikipedia: http://en.wikipedia.org/wiki/Julian_Hawthorne
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15596#Bressant--A-Novel
 gutenberg_issued: '2005-04-09'
 gutenberg_type: Text
 identifiers:
